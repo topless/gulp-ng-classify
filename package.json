@@ -27,7 +27,7 @@
 	"dependencies": {
 		"coffee-script": "^1.7.1",
 		"event-stream": "^3.1.5",
-		"ng-classify": "^4.0.0",
+		"ng-classify": "git://github.com/topless/ng-classify.git#master",
 		"gulp-util": "^3.0.0"
 	},
 	"devDependencies": {
